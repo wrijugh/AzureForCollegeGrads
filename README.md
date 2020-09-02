@@ -1,4 +1,4 @@
-# Azure for College Gradutes
+# Azure for College Grads
 
 ## Intoduction
 
