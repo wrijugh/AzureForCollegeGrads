@@ -15,6 +15,7 @@
   - Virtual Machine 
   - Networking
   - Storage 
+  - Azure CLI/PowerShell/ARM Template
 - Azure Databases
   - Azure SQL Database
   - CosmosDB
@@ -25,7 +26,10 @@
   - Azure Functions
   - Logic Apps 
 - Azure IoT
+  - IoT Hub
+  - IoT Central
 - Azure AI/ML
   - Azure ML
-  - Cognitive Service 
+  - Cognitive Services
+    - Few 
 
